@@ -13,6 +13,8 @@
     "start": "electron-vite preview",
     "dev": "electron-vite dev",
     "dev:mock": "node scripts/dev-mock.mjs",
+    "build:web": "vite build --config vite.web.config.ts",
+    "preview:web": "vite preview --config vite.web.config.ts",
     "build": "npm run typecheck && electron-vite build",
     "postinstall": "electron-builder install-app-deps",
     "build:unpack": "npm run build && electron-builder --dir",

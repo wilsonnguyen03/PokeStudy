@@ -21,6 +21,10 @@ npm run build:win
 
 The installer ends up in `dist/`. On Windows you may need Developer Mode turned on (or an admin terminal) the first time.
 
+## Web demo
+
+The app also builds for the browser (`npm run build:web`, output in `dist-web/`), which is how the Vercel demo is made. First-time visitors start with a filled-in save: a trainer with a party, a stocked PC, some badges and study history. Settings > Reset everything brings it back.
+
 ## Notes
 
 - Progress is saved on your computer. Settings > Reset everything wipes it.

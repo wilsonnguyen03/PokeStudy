@@ -8,3 +8,4 @@ out
 # AI assistant notes
 CLAUDE.md
 .claude/
+dist-web
