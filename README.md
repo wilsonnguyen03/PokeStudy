@@ -1,5 +1,7 @@
 # PokéStudy
 
+**[Try the live demo](https://pokework.vercel.app/)** (runs in your browser, no download)
+
 A desktop study timer where your Pokémon study with you. Focus sessions earn them XP and bring wild Pokémon to catch, and breaks heal them. Take on gym leaders across five regions as you go.
 
 Built with Electron, React and TypeScript.
