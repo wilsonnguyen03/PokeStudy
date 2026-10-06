@@ -1,0 +1,10 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+
+# AI assistant notes
+CLAUDE.md
+.claude/
